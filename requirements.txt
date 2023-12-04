@@ -1,10 +1,6 @@
 transformers
-accelerate
-einops
-langchain
-xformers
-bitsandbytes
-faiss-gpu
+scikit-learn
+streamlit
 sentence_transformers
 pandas
 numpy
