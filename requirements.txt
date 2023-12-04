@@ -1,0 +1,10 @@
+transformers
+accelerate
+einops
+langchain
+xformers
+bitsandbytes
+faiss-gpu
+sentence_transformers
+pandas
+numpy
